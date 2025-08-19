@@ -34,3 +34,14 @@ Our next goal is to design a bandgap-referenced Two Stage Miller OTA to enhance 
 (Our proposed simple bandgap-referenced circuit. Source: https://github.com/an3ol/General-purpose-Bandgap-Reference-avsdbgp_3v3/tree/main)
 
 During this competition, we will be working on the novelties on how a bandgap should be efficiently connected to an OTA by ensuring its peak performance, stability and robustness.
+
+# Gallery and Block Diagrams
+The proposed Two Stage Miller OTA Topology
+
+<img width="1269" height="655" alt="image" src="https://github.com/user-attachments/assets/edaef404-6393-4315-aa20-498f63e0cc23" />
+
+Block diagram for the bandgap reference circuit
+
+<img width="589" height="395" alt="image" src="https://github.com/user-attachments/assets/726e6cd7-1956-42eb-a58e-909e271a09d0" />
+
+
