@@ -1,5 +1,5 @@
 # bandgap-referenced-ota
-A proposed design for the participation in UNIC-CASS 3rd edition 2025. We aim to make high-value, reproducible designs!
+A proposed design for the participation in UNIC-CASS 3rd edition 2025. We aim to make high-value reproducible designs!
 # Welcome to our team's repository!
 Here, we are proposing a temperature and corners robust bandgap-referenced OTA. This work is based on our team's previous work in design in low-power two stage miller OTA with a gain of 70 dB, PSRR of 50 dB, and a phase margin above 60 degrees. This design idea is intended to represent the crucial role of bandgap reference circuits in keeping an Integrated Circuits (IC) robust over extreme conditions. This design idea will involve two main analog blocks; bandgap-reference circuit and a two stage miller OTA. To keep the two stage miller OTA connected to the bandgap reference circuit, the design will also apply the usage of Mosfet Diodes to feed the Vref into the OTA's input ports (Vp and Vn), and a current mirror to convert the Vref into an Ibias signal for the OTA's biasing. 
 
